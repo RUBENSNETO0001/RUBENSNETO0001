@@ -17,6 +17,8 @@ Sou apaixonado em criar e desenvolver programas ou sistema.
 </div>
 
 <div align="center"><br><br>
-    <img height="170cm" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RUBENSNETO0001&show_icons=true&include_all_commits=true&theme=dracula" alt="Rubens" /> ||
-    <img height="170em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RUBENSNETO0001&layout=compact&langs_count=10&theme=dracula&hide=html,php,blade"/>
+  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RUBENSNETO0001&show_icons=true&include_all_commits=true&theme=dracula" alt="Rubens GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RUBENSNETO0001&layout=compact&langs_count=10&theme=dracula&hide=html,php,blade" alt="Rubens Languages"/>
 </div>
+
