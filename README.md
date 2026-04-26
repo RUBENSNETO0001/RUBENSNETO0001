@@ -6,7 +6,7 @@ Sou apaixonado por criar e desenvolver programas e sistemas, com foco em soluç�
 
 ### 🛠️ Habilidades como Programador
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: row; gap: 1rem; justify-content: center; align-items: center; align-content: center; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TS" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40">
