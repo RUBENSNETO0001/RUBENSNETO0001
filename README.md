@@ -34,5 +34,5 @@ Sou apaixonado por criar e desenvolver programas e sistemas, com foco em soluç�
 ---
 
 ### 📫 Como me encontrar
-* Podes ver os meus projetos aqui no GitHub.
-* Utilizo o **Ubuntu** como o meu sistema principal de desenvolviment**e**.
+* Me mande uma mensagem no meu email profissional: rubensnetomartinssuarezneto@gmail.com
+* Me mande uma mensagem via instagram: @rube_nsneto
